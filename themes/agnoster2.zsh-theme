@@ -1,0 +1,1 @@
+../../emacs.d/zsh/theme/agnoster-light.zsh-theme
